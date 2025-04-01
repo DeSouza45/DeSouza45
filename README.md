@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="end">
 
-<!--
-**DeSouza45/DeSouza45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+<b><i>O sacrifício é o intervalo entre o seu objetivo e a sua glória.</i></b>
+</pre>
 
-Here are some ideas to get you started:
+#
+<samp>entenda sobre</samp>
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+Valorant Radiant Enjoyer
+Infantry Corporal
+</pre>
+
+#
+
+<div align="center">
+<img height="180" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtxb3Z4cWxpa29qYXdoYTRsNGVva2Z1MHJ4MzJpa2s2NTQ3cWNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q217GUnfKAmJlFcjBX/giphy.gif"> 
+
+</div>
+</div>
